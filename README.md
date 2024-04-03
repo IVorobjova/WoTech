@@ -15,7 +15,7 @@ Read me file uses markdown syntax to edti any text, formulas or codes.
 
 ## My fav part of code
 
-'''java public class Main {
+```java public class Main {
   public static void main(String[] args) {
       double temp = -15.0;
 
@@ -34,4 +34,4 @@ Read me file uses markdown syntax to edti any text, formulas or codes.
 
 
   }
-} '''
+} ```
